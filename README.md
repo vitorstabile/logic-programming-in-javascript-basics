@@ -1,4 +1,4 @@
-<h1 align="center"> Logic Programming in C </h1>
+<h1 align="center"> Logic Programming in JavaScript </h1>
 
 # Content
 
@@ -52,9 +52,11 @@ This project have a propose to introduce the reader the basics of logic programm
 
 In my [GitHub profile][github-url], you will see repositories named as "logic-programming-in-(language name)-basics". This repositories concist in tutorials to introduce the reader the basics in logical programming using the most usable languages in the market.
 
+The Introduction to Programming logic can be found in this [repository][introduction-url], where basic concepts about programming logic are covered.
+
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
-This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url].
+This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
 
 # Project Description <a name="projectdescription"></a>
 
@@ -361,4 +363,6 @@ https://unsplash.com/
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/logic-programming-in-c-basics/blob/master/LICENSE.txt
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
+[devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
+[introduction-url]: https://github.com/vitorstabile/logic-programming-basics
 [cormen-url]: https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996
