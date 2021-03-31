@@ -5,7 +5,7 @@
 1. [Project Status](#projectstatus)
 2. [About the Project](#abouttheproject)
 3. [Project Description](#projectdescription)
-4. [Chapter 1: The C Language](#chapter1)
+4. [Chapter 1: The JavaScript Language](#chapter1)
     - [Chapter 1 - Part 1: History](#chapter1part1)
     - [Chapter 1 - Part 2: GCC MinGW Compiler Installation](#chapter1part2)
     - [Chapter 1 - Part 3: Code Blocks IDE Installation](#chapter1part3)
