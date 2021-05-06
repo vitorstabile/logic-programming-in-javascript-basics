@@ -351,7 +351,7 @@ https://unsplash.com/
 <!-- MY BADGES -->
 
 [project-shield]: https://img.shields.io/badge/link-project-green.svg
-[project-url]: https://github.com/vitorstabile/logic-programming-in-c-basics
+[project-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
 [linkedin-shield]: https://img.shields.io/badge/my-linkedin-blue.svg 
 [linkedin-url]: https://www.linkedin.com/in/vitor-stabile-garcia-5b151b67
 [portfolio-shield]: https://img.shields.io/badge/my-portfolio-red.svg
@@ -359,9 +359,9 @@ https://unsplash.com/
 [github-shield]: https://img.shields.io/badge/my-github-green.svg
 [github-url]: https://github.com/vitorstabile
 [issues-shield]: https://img.shields.io/badge/link-issues-green.svg
-[issues-url]: https://github.com/vitorstabile/logic-programming-in-c-basics/issues
+[issues-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
-[license-url]: https://github.com/vitorstabile/logic-programming-in-c-basics/blob/master/LICENSE.txt
+[license-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics/blob/master/LICENSE.txt
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 [devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
 [introduction-url]: https://github.com/vitorstabile/logic-programming-basics
