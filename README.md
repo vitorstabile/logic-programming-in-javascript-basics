@@ -43,6 +43,16 @@ Both ```var``` and ```let``` are used to declare variables. However, there are s
 | ```var``` is function scoped (will be discussed in later tutorials). | ```let``` is block scoped (will be discussed in later tutorials).       |
 | For example, ```var x;```                                            | For example, ```let y;```                                               |
 
+
+```js
+
+let x;
+x = 5;
+
+console.log(x);
+
+```
+
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Data Output in JavaScript
 
 #### <a name="chapter1part4"></a>Chapter 1 - Part 4: Data Processing in JavaScript
