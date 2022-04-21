@@ -53,6 +53,15 @@ console.log(x);
 
 ```
 
+```js
+
+y = 6, z = 7;
+
+console.log(y);
+console.log(z);
+
+```
+
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Data Output in JavaScript
 
 #### <a name="chapter1part4"></a>Chapter 1 - Part 4: Data Processing in JavaScript
