@@ -62,6 +62,24 @@ console.log(z);
 
 ```
 
+The ```const``` keyword was also introduced in the ES6(ES2015) version to create constants.
+
+```js
+
+const x = 5;
+
+```
+
+Once a constant is initialized, we cannot change its value.
+
+```js
+
+const x = 5;
+x = 10;  // Error! constant cannot be changed.
+console.log(x)
+
+```
+
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Data Output in JavaScript
 
 #### <a name="chapter1part4"></a>Chapter 1 - Part 4: Data Processing in JavaScript
