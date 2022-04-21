@@ -80,6 +80,19 @@ console.log(x)
 
 ```
 
+| Data Types      | Description                                        | Example                                   |
+|:----------------|:---------------------------------------------------|:------------------------------------------|
+| ```String```    | Represents textual data                            | ```'hello'```, ```"hello world!"``` etc   |
+| ```Number```    | An integer or a floating-point number              | ```3```, ```3.234```, ```3e-2``` etc.     |
+| ```BigInt```    | An integer with arbitrary precision                | ```900719925124740999n``` , ```1n``` etc. |
+| ```Boolean```   | Any of two values: true or false                   | ```true``` and ```false```                |
+| ```undefined``` | A data type whose variable is not initialized      | ```let a;```                              |
+| ```null```      | Denotes a ```null``` value                         | ```let a = null;```                       |
+| ```Symbol```    | Data type whose instances are unique and immutable | ```let value = Symbol('hello');```        |
+| ```Object```    | key-value pairs of collection of data              | ```let student = { };```                  |
+
+
+
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Data Output in JavaScript
 
 #### <a name="chapter1part4"></a>Chapter 1 - Part 4: Data Processing in JavaScript
