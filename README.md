@@ -11,8 +11,8 @@
     - [Chapter 1 - Part 6: Data Input in JavaScript](#chapter1part6)
     - [Chapter 1 - Part 7: Conditional Statement in JavaScript](#chapter1part7)
     - [Chapter 1 - Part 8: While Statement in JavaScript](#chapter1part8)
-    - [Chapter 1 - Part 9: First Program in JavaScript](#chapter1part9)
-    - [Chapter 1 - Part 10: For Statement in JavaScript](#chapter1part10)
+    - [Chapter 1 - Part 9: For Statement in JavaScript](#chapter1part9)
+    - [Chapter 1 - Part 10: Vectors in JavaScript](#chapter1part10)
     - [Chapter 1 - Part 11: Matrix in JavaScript](#chapter1part11)
 
   
