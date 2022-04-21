@@ -35,7 +35,7 @@ let y;
 
 ```
 
-Both var and let are used to declare variables. However, there are some differences between them.
+Both ```var``` and ```let``` are used to declare variables. However, there are some differences between them.
 
 | ```var```                                                            | ```let```                                                               |
 |:---------------------------------------------------------------------|:------------------------------------------------------------------------|
