@@ -28,6 +28,21 @@ console.log('Hello World');
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Variables Types in JavaScript
 
+```js
+
+var x;
+let y;
+
+```
+
+Both var and let are used to declare variables. However, there are some differences between them.
+
+| ```var```                                                            | ```let```                                                               |
+|:---------------------------------------------------------------------|:------------------------------------------------------------------------|
+| ```var``` is used in the older versions of JavaScript                | ```let``` is the new way of declaring variables starting ES6 (ES2015).  |
+| ```var``` is function scoped (will be discussed in later tutorials). | ```let``` is block scoped (will be discussed in later tutorials).       |
+| For example, ```var x;```                                            | For example, ```let y;```                                               |
+
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: Data Output in JavaScript
 
 #### <a name="chapter1part4"></a>Chapter 1 - Part 4: Data Processing in JavaScript
