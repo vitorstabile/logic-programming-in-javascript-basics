@@ -1,4 +1,4 @@
-<h1 align="center"> Logic Programming with JavaScript </h1>
+<h1 align="center"> JavaScript </h1>
 
 # Content
 
